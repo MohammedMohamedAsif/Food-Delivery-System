@@ -13,6 +13,8 @@ Ethan Carter
 This application is to be used by Universities that want food delivery on campus, but do not want independent non-student contractors delivering the food to campus.
 
 ## Business Rules
+Each Order must have an ID and a delivery attached
+Each Delivery must have an ID attached
 Each driver must be a student and or faculty.
 Establishments can be added by students or faculty.
 Each establishment must be approved by faculty.
@@ -25,7 +27,9 @@ Deliveries must be marked complete when completed.
 ## MySQL Queries
 
 ##Trigger
-
+When a new order is submitted to the database a delivery should be created,
+When an order is marked completed the delivery should be updated.
+When a new establishment is added to the database, there should be a notification sent to the faculty to approve or disapprove the establishment.
 ##Stored Procedure
 
 ## Future Work
