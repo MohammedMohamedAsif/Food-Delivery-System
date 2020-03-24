@@ -40,3 +40,4 @@ When a new establishment is added to the database, there should be a notificatio
 If this works out, we hope to expand this service for all universities around the country. 
 If this venture is successful there is a possible option to widen the target demographic by also including highschools. 
 ## MySQL dump
+This application will be backed up using MySQL dump client in order to be able to have a backup database and transfer the database
