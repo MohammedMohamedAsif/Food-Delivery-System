@@ -26,14 +26,13 @@ Deliveries must be marked complete when completed.
 
 ## MySQL Queries
 
+##Stored Procedure
+
+## Trigger
 ##Trigger
 When a new order is submitted to the database a delivery should be created,
 When an order is marked completed the delivery should be updated.
 When a new establishment is added to the database, there should be a notification sent to the faculty to approve or disapprove the establishment.
-##Stored Procedure
-
-## Trigger
-
 ## Stored Procedure
 
 ## Future Work
