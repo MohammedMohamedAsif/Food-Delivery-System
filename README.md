@@ -34,5 +34,6 @@ When a new establishment is added to the database, there should be a notificatio
 ##Stored Procedure
 
 ## Future Work
-
+If this works out, we hope to expand this service for all universities around the country. 
+There is also an option to widen the target demographic by also including high school. 
 ## MySQL dump
