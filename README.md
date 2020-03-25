@@ -2,9 +2,7 @@
 Group Members:
 Mohammed Mohamed Asif, 
 Imraan Boukarfi, 
-Angie Berrios,
-Seth Schallau,
-Ethan Carter
+Angie Berrios
 
 ## Introduction
 [Food Delivery System] intends to provide a system that universities and students alike can enjoy. A university who purchases a [Food delivery system] license can run it on their own and distribute the app to students. This will allow the univerisity in question to approve any establishment and driver that wants to deliver food on the campus. 
