@@ -32,7 +32,7 @@ When a new order is submitted to the database a delivery should be created,
 When an order is marked completed the delivery should be updated.
 When a new establishment is added to the database, there should be a notification sent to the faculty to approve or disapprove the establishment.
 ## Stored Procedure
-
+This is a function whose code can be reused again. Forx example in this application one of the stored procedure could be to search for and find the driver who is closest to the respective locatoin. This way it can save the drive and the customer time and money.
 
 ## Future Work
 If this works out, we hope to expand this service for all universities around the country. 
